@@ -37,4 +37,4 @@ This project presents an exploratory data analysis of the Superstore dataset usi
 - Perform more advanced analytics using **Python (pandas & matplotlib)**.
 
 ## 📂 Files
-- `cleaned superstore.xlsx` – The Excel workbook with the analysis.
+- `analysis of superstore.xlsx` – The Excel workbook with the analysis.
